@@ -1,0 +1,435 @@
+[
+    
+    {
+        "deviceType": "手机",
+        "brand": "苹果",
+        "fault": "屏幕破裂更换",
+        "desc": "屏幕碎裂、显示异常、触摸失灵",
+        "price": "800-2500"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "苹果",
+        "fault": "电池更换",
+        "desc": "电池不充电、续航短、鼓包",
+        "price": "300-800"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "苹果",
+        "fault": "主板维修",
+        "desc": "无法开机、无信号、进水维修",
+        "price": "500-3000"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "苹果",
+        "fault": "充电口维修",
+        "desc": "无法充电、充电接触不良、接口松动",
+        "price": "200-500"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "华为",
+        "fault": "屏幕破裂更换",
+        "desc": "屏幕碎裂、显示异常、触摸失灵",
+        "price": "400-1800"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "华为",
+        "fault": "电池更换",
+        "desc": "电池不充电、续航短、鼓包",
+        "price": "200-600"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "华为",
+        "fault": "主板维修",
+        "desc": "无法开机、无信号、进水维修",
+        "price": "300-2000"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "华为",
+        "fault": "摄像头维修",
+        "desc": "拍照模糊、无法对焦、摄像头损坏",
+        "price": "200-800"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "小米",
+        "fault": "屏幕破裂更换",
+        "desc": "屏幕碎裂、显示异常、触摸失灵",
+        "price": "300-1500"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "小米",
+        "fault": "电池更换",
+        "desc": "电池不充电、续航短、鼓包",
+        "price": "150-500"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "小米",
+        "fault": "主板维修",
+        "desc": "无法开机、无信号、进水维修",
+        "price": "200-1800"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "小米",
+        "fault": "扬声器维修",
+        "desc": "无声音、声音嘶哑、外放破音",
+        "price": "100-300"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "OPPO",
+        "fault": "屏幕破裂更换",
+        "desc": "屏幕碎裂、显示异常、触摸失灵",
+        "price": "300-1400"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "OPPO",
+        "fault": "电池更换",
+        "desc": "电池不充电、续航短、鼓包",
+        "price": "150-450"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "OPPO",
+        "fault": "主板维修",
+        "desc": "无法开机、无信号、进水维修",
+        "price": "200-1600"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "vivo",
+        "fault": "屏幕破裂更换",
+        "desc": "屏幕碎裂、显示异常、触摸失灵",
+        "price": "300-1400"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "vivo",
+        "fault": "电池更换",
+        "desc": "电池不充电、续航短、鼓包",
+        "price": "150-450"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "vivo",
+        "fault": "主板维修",
+        "desc": "无法开机、无信号、进水维修",
+        "price": "200-1600"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "三星",
+        "fault": "屏幕破裂更换",
+        "desc": "屏幕碎裂、显示异常、触摸失灵",
+        "price": "500-2000"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "三星",
+        "fault": "电池更换",
+        "desc": "电池不充电、续航短、鼓包",
+        "price": "200-600"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "三星",
+        "fault": "主板维修",
+        "desc": "无法开机、无信号、进水维修",
+        "price": "300-2200"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "荣耀",
+        "fault": "屏幕破裂更换",
+        "desc": "屏幕碎裂、显示异常、触摸失灵",
+        "price": "300-1300"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "荣耀",
+        "fault": "电池更换",
+        "desc": "电池不充电、续航短、鼓包",
+        "price": "150-450"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "荣耀",
+        "fault": "主板维修",
+        "desc": "无法开机、无信号、进水维修",
+        "price": "200-1500"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "魅族",
+        "fault": "屏幕破裂更换",
+        "desc": "屏幕碎裂、显示异常、触摸失灵",
+        "price": "280-1200"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "魅族",
+        "fault": "电池更换",
+        "desc": "电池不充电、续航短、鼓包",
+        "price": "150-400"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "魅族",
+        "fault": "主板维修",
+        "desc": "无法开机、无信号、进水维修",
+        "price": "200-1400"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "一加",
+        "fault": "屏幕破裂更换",
+        "desc": "屏幕碎裂、显示异常、触摸失灵",
+        "price": "400-1600"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "一加",
+        "fault": "电池更换",
+        "desc": "电池不充电、续航短、鼓包",
+        "price": "180-500"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "一加",
+        "fault": "主板维修",
+        "desc": "无法开机、无信号、进水维修",
+        "price": "300-1800"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "iPad",
+        "fault": "屏幕破裂更换",
+        "desc": "平板屏幕碎裂、触摸失灵",
+        "price": "600-2200"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "iPad",
+        "fault": "电池更换",
+        "desc": "电池不充电、续航短、鼓包",
+        "price": "400-900"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "iPad",
+        "fault": "主板维修",
+        "desc": "无法开机、无信号、进水维修",
+        "price": "500-2500"
+    },
+    {
+        "deviceType": "手机",
+        "brand": "iPad",
+        "fault": "充电口维修",
+        "desc": "无法充电、充电接触不良、接口松动",
+        "price": "200-600"
+    },
+
+    
+    {
+        "deviceType": "笔记本",
+        "laptopType": "办公本",
+        "fault": "屏幕破裂更换",
+        "desc": "屏幕碎裂、显示异常、花屏",
+        "price": "500-1200"
+    },
+    {
+        "deviceType": "笔记本",
+        "laptopType": "办公本",
+        "fault": "电池更换",
+        "desc": "电池不充电、续航短、鼓包",
+        "price": "300-800"
+    },
+    {
+        "deviceType": "笔记本",
+        "laptopType": "办公本",
+        "fault": "键盘更换",
+        "desc": "按键失灵、键盘进水、键帽脱落",
+        "price": "150-400"
+    },
+    {
+        "deviceType": "笔记本",
+        "laptopType": "办公本",
+        "fault": "无法开机/黑屏",
+        "desc": "按电源键无反应、开机黑屏、蓝屏",
+        "price": "200-800"
+    },
+    {
+        "deviceType": "笔记本",
+        "laptopType": "办公本",
+        "fault": "系统重装",
+        "desc": "系统卡顿、无法启动、病毒查杀",
+        "price": "100-200"
+    },
+    {
+        "deviceType": "笔记本",
+        "laptopType": "办公本",
+        "fault": "硬盘更换",
+        "desc": "硬盘损坏、读写缓慢、无法识别",
+        "price": "200-600"
+    },
+    {
+        "deviceType": "笔记本",
+        "laptopType": "游戏本",
+        "fault": "屏幕破裂更换",
+        "desc": "屏幕碎裂、显示异常、高刷屏维修",
+        "price": "800-1800"
+    },
+    {
+        "deviceType": "笔记本",
+        "laptopType": "游戏本",
+        "fault": "显卡故障维修",
+        "desc": "花屏、无法玩游戏、显卡驱动报错",
+        "price": "500-1500"
+    },
+    {
+        "deviceType": "笔记本",
+        "laptopType": "游戏本",
+        "fault": "散热改造/清灰",
+        "desc": "机身过热、自动降频、风扇噪音大",
+        "price": "200-400"
+    },
+    {
+        "deviceType": "笔记本",
+        "laptopType": "游戏本",
+        "fault": "电源适配器更换",
+        "desc": "无法充电、适配器发热、有异响",
+        "price": "150-400"
+    },
+    {
+        "deviceType": "笔记本",
+        "laptopType": "游戏本",
+        "fault": "主板维修",
+        "desc": "无法开机、无信号、进水维修",
+        "price": "600-2000"
+    },
+    {
+        "deviceType": "笔记本",
+        "laptopType": "游戏本",
+        "fault": "内存升级/更换",
+        "desc": "内存不足、无法开机、蓝屏重启",
+        "price": "200-800"
+    },
+
+    
+    {
+        "deviceType": "台式机",
+        "fault": "主机无法开机",
+        "desc": "按电源键无反应、开机风扇转但无显示",
+        "price": "150-500"
+    },
+    {
+        "deviceType": "台式机",
+        "fault": "蓝屏/死机",
+        "desc": "运行中蓝屏、频繁死机、自动重启",
+        "price": "100-300"
+    },
+    {
+        "deviceType": "台式机",
+        "fault": "显示器无信号",
+        "desc": "主机运行正常、显示器不显示",
+        "price": "80-200"
+    },
+    {
+        "deviceType": "台式机",
+        "fault": "硬盘损坏/数据恢复",
+        "desc": "硬盘无法识别、文件丢失、需要数据恢复",
+        "price": "300-1500"
+    },
+    {
+        "deviceType": "台式机",
+        "fault": "硬件升级",
+        "desc": "内存、硬盘、显卡、CPU升级",
+        "price": "200-1000"
+    },
+    {
+        "deviceType": "台式机",
+        "fault": "系统重装",
+        "desc": "系统卡顿、无法启动、病毒查杀",
+        "price": "100-200"
+    },
+    {
+        "deviceType": "台式机",
+        "fault": "主板维修",
+        "desc": "无法开机、USB接口失灵、无网络",
+        "price": "300-1200"
+    },
+
+    
+    {
+        "deviceType": "硬盘",
+        "fault": "数据恢复",
+        "desc": "机械硬盘/固态硬盘数据丢失、无法识别",
+        "price": "300-2000"
+    },
+    {
+        "deviceType": "硬盘",
+        "fault": "硬盘维修",
+        "desc": "硬盘异响、无法读取、坏道修复",
+        "price": "200-800"
+    },
+    {
+        "deviceType": "硬盘",
+        "fault": "硬盘盒更换",
+        "desc": "移动硬盘盒损坏、无法连接电脑",
+        "price": "50-200"
+    },
+    {
+        "deviceType": "硬盘",
+        "fault": "硬盘格式化恢复",
+        "desc": "误格式化、分区丢失、文件恢复",
+        "price": "200-1000"
+    },
+    {
+        "deviceType": "硬盘",
+        "fault": "固态硬盘掉盘修复",
+        "desc": "SSD无法识别、掉盘、数据恢复",
+        "price": "400-1500"
+    },
+
+    
+    {
+        "deviceType": "U盘",
+        "fault": "数据恢复",
+        "desc": "U盘文件丢失、无法识别、误删除",
+        "price": "200-1000"
+    },
+    {
+        "deviceType": "U盘",
+        "fault": "U盘修复",
+        "desc": "U盘无法格式化、读取失败、写保护",
+        "price": "50-300"
+    },
+    {
+        "deviceType": "U盘",
+        "fault": "U盘量产",
+        "desc": "U盘容量缩水、需要重新量产",
+        "price": "80-200"
+    },
+    {
+        "deviceType": "U盘",
+        "fault": "接口维修",
+        "desc": "U盘接口松动、无法连接、接触不良",
+        "price": "50-200"
+    },
+    {
+        "deviceType": "U盘",
+        "fault": "芯片维修",
+        "desc": "U盘芯片损坏、无法读取、无法写入",
+        "price": "100-400"
+    }
+]
